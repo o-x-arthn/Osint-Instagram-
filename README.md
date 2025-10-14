@@ -33,4 +33,4 @@
 1. **استنساخ المستودع**:
    ```bash
    git clone https://github.com/<your-username>/arthn-osint-beast](https://github.com/o-x-arthn/Osint-Instagram-.git
-   cd arthn-osint-beast
+   cd Osint-Instagram-
