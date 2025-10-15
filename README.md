@@ -35,6 +35,10 @@
 1. **استنساخ المستودع**:
    ```bash
    git clone https://github.com/o-x-arthn/Osint-Instagram-.git
-   cd Osint-Instagram-
-   pip install -r requirements.txt --break-system-packages
-   python3 main.py
+
+```bash
+cd Osint-Instagram-
+pip install -r requirements.txt --break-system-packages
+mkdir instatools
+mv *.py instatools
+python3 main.py
